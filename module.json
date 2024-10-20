@@ -1,0 +1,13 @@
+{
+    "name": "zFPS",
+    "author": "Ace",
+    "description": "PATCH-100.02",
+    "version": "1.0",
+    "options": {
+        "niceName": "ZFPS-script",
+        "guiName": "zFPS"
+    },
+    "servers": ["https://raw.githubusercontent.com/Malevyn/zFPS/master/"],
+    "drmKey": " ",
+    "disableAutoUpdate": false
+}
